@@ -60,4 +60,45 @@ Why cycle breaker.
 
 
 
+## Sidecar Pattern.
+Pros.
+* Language agnostics(polyglot).
+* Protocol upgrade.
+* Security.
+* Tracing and monitoring. 
+* Service Discovery.
+* Caching.
+
+Cons.   
+* Complexity.
+* Latency.
+
+
+
+
+
+## Ambassador Pattern.
+
+
+
+
+
+## Adapter Pattern.
+
+
+
+
+
+## Decorator Pattern.
+
+
+
+
+
+## Library Pattern.
+
+
+
+
+
 ## Help.
