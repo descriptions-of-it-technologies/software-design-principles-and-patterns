@@ -7,6 +7,7 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
+* [Messaging Patterns.](messaging-patterns.md)
 * [Help.](#help)
 
 
@@ -49,13 +50,6 @@ Why cycle breaker.
 
 ## Bulkhead Pattern.
 
-
-
-
-
-## Asynchronous Messaging Patterns.
-* Message Queuing.
-* Publish/Subscriber.
 
 
 
