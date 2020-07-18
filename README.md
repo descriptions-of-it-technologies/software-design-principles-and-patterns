@@ -1,4 +1,4 @@
-# Software Design Pattern.
+# Software Design Principles and Patterns.
 
 
 
