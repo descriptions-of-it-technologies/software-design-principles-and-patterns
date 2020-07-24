@@ -35,13 +35,21 @@
 
 
 ## Information Expert.
+
 ## Creator.
+
 ## Controller.
+
 ## Low Coupling.
+
 ## High Cohesion.
+
 ## Polymorphism.
+
 ## Pure Fabrication.
+
 ## Indirection.
+
 ## Protected Variation.
 
 
