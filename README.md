@@ -7,6 +7,8 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
+* [Software Design Principles.](software-design-principles.md)
+* [Software Design Patterns.](software-design-patterns.md)
 * [Messaging Patterns.](messaging-patterns.md)
 * [Help.](#help)
 
@@ -22,74 +24,6 @@
 
 ## Documentation.
 
-
-
-
-
-## Cycle Breaker Pattern.
-* Detect something is wrong.
-* Take temporary steps to avoid the situation getting worse.
-* Deactivate the problem component so that it doesn't affect downstream components.
- 
-When does the circuit trip?
-* Last n requests to consider for the decision.
-* How many of those should fail?
-* Timeout duration.
-
-When does the circuit up-trip?
-* How long after a circuit trip to try again?
-
-Why cycle breaker.
-* Failing fast.
-* Fallback functionality.
-* Automatic recovery.
-
-
-
-
-
-## Bulkhead Pattern.
-
-
-
-
-
-## Sidecar Pattern.
-Pros.
-* Language agnostics(polyglot).
-* Protocol upgrade.
-* Security.
-* Tracing and monitoring. 
-* Service Discovery.
-* Caching.
-
-Cons.   
-* Complexity.
-* Latency.
-
-
-
-
-
-## Ambassador Pattern.
-
-
-
-
-
-## Adapter Pattern.
-
-
-
-
-
-## Decorator Pattern.
-
-
-
-
-
-## Library Pattern.
 
 
 
