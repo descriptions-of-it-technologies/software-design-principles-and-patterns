@@ -48,7 +48,7 @@
 
 ## DRY. Don't Repeat Yourself.
 
-"Every piece of knowledge or logicte must have a single, unambiguous representation within a system."
+"Every piece of knowledge or logic must have a single, unambiguous representation within a system."
 
 * SSOT. Single Source of Truth.
 
