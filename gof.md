@@ -32,6 +32,13 @@
 * Abstract Factory (or Factory or Kit).
 * Factory Method (or Virtual Constructor).
 * Builder.
+  * Uses cases: 
+    * Constructor have many parameters. 
+    * Class have mandatory and some optional parameters.
+  * Pros:
+    * We can set just the properties we need and the build method can handle defaults. 
+  * Cons:
+    * It does create more code and could introduce more complexity.
 * Prototype.
 * Singleton.
 

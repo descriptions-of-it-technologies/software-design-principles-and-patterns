@@ -11,6 +11,7 @@
 * [SOLID.](solid.md)
 * [KISS.](#kiss-keep-it-simple-stupid-or-keep-it-short-and-simple)
 * [DRY.](#dry-dont-repeat-yourself)
+* [YAGNI.](#yagni-you-arent-gonna-need-it)
 * [Help.](#help)
 
 
@@ -52,6 +53,12 @@
 
 * SSOT. Single Source of Truth.
 
+
+
+
+
+
+##  YAGNI. You aren't gonna need it.
 
 
 
