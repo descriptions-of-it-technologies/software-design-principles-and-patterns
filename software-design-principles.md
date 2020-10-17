@@ -7,8 +7,8 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
-* [GRASP.](grasp.md)
-* [SOLID.](solid.md)
+* [GRASP Principles.](grasp-principles.md)
+* [SOLID Principles.](solid-principles.md)
 * [KISS.](#kiss-keep-it-simple-stupid-or-keep-it-short-and-simple)
 * [DRY.](#dry-dont-repeat-yourself)
 * [YAGNI.](#yagni-you-arent-gonna-need-it)
