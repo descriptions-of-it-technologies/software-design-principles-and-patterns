@@ -7,7 +7,7 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
-* [SAGA Pattern.](additional/saga.md)
+* [SAGA Pattern.](principles-and-patterns/saga.md)
 * [Help.](#help)
 
 
