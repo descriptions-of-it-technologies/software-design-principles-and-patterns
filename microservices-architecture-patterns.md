@@ -7,7 +7,7 @@
 ## Contents at a Glance.
 * [About.](#about)
 * [Documentation.](#documentation)
-* [SAGA Pattern.](#saga-pattern)
+* [SAGA Pattern.](additional/saga.md)
 * [Help.](#help)
 
 
@@ -22,12 +22,6 @@
 
 ## Documentation.
 
-
-
-
-
-## SAGA Pattern.
-Type of SAGA implementations: Choreography (Event Based), Orchestration (Command Based).
 
 
 
