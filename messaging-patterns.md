@@ -38,7 +38,7 @@
 
 
 
-## Publish/Subscribe.
+## Publish/Subscribe(broadcasting).
 
 
 
@@ -59,6 +59,12 @@
 ## Asynchronous Messaging Patterns.
 * Message Queuing.
 * Publish/Subscriber.
+
+
+
+
+
+## Point-to-point.
 
 
 
