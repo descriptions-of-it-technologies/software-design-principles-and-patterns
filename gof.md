@@ -39,6 +39,8 @@
     * We can set just the properties we need and the build method can handle defaults. 
   * Cons:
     * It does create more code and could introduce more complexity.
+  * Best practice:
+    * Builder() constructor should receive as a parameter of the constructor instance of the class that build. Example `public Builder(ObjectThatBuild object)`
 * Prototype.
 * Singleton.
 
