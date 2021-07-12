@@ -29,8 +29,15 @@
 
 
 ## Type of SAGA implementations. 
-* Choreography (Event Based) 
-* Orchestration (Command Based)
+* Choreography (Event Based) - participants exchange events without a centralized point of control.
+* Orchestration (Command Based) - a centralized controller tells the saga participants what local transactions to execute.
+
+
+
+
+
+## Useful links.
+* [Saga distributed transactions.](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga)
 
 
 

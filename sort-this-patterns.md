@@ -35,6 +35,8 @@ Cons.
 
 ## Library Pattern.
 
+## Event Bus pattern .
+
 
 
 
